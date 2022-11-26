@@ -1,4 +1,4 @@
-import sortedByFunction from "../src/sorted-by-function.mjs"
+import {sortedByFunction} from "../index.mjs"
 
 describe("sortedByFunction", () => {
   const peopleWithNames = [

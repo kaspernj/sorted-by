@@ -1,3 +1,3 @@
-import sortedByFunction from "src/sorted-by-function"
+import sortedByFunction from "./src/sorted-by-function.mjs"
 
 export {sortedByFunction}
