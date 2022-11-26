@@ -1,0 +1,26 @@
+{
+  "name": "sorted-by",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaspernj/sorted-by.git"
+  },
+  "keywords": [
+    "sorted",
+    "by"
+  ],
+  "author": "k@spernj.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaspernj/sorted-by/issues"
+  },
+  "homepage": "https://github.com/kaspernj/sorted-by#readme",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
