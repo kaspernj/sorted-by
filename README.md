@@ -1,3 +1,4 @@
+```js
 import {sortedByFunction} from "../index.mjs"
 
 describe("sortedByFunction", () => {
@@ -17,3 +18,4 @@ describe("sortedByFunction", () => {
     expect(sortedNames).toEqual(["Christina", "Kasper"])
   })
 })
+```
