@@ -1,0 +1,10 @@
+# TensorBuzz runs the package tests for changes to repository inputs. Markdown-only
+# edits do not affect the package and can skip the build; the ordered negation must
+# remain quoted so YAML treats it as a string.
+paths:
+  - "**"
+  - "!**/*.md"
+dependency_roots:
+  - path: .
+script:
+  - npm test
